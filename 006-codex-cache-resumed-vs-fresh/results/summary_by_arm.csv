@@ -1,0 +1,3 @@
+arm,chains,turns,turns_passed,total_tokens,cached,uncached,output,cache_share,cost_mean,cost_min,cost_max
+fresh exec per task,3,14.0,14.0,898991.0,788352.0,105370.3333,5268.6667,0.8821,0.3423,0.3142,0.3632
+one resumed session,3,14.0,14.0,1623396.3333,1541845.3333,77255.3333,4295.6667,0.9493,0.3517,0.3456,0.3619
